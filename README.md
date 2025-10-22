@@ -33,7 +33,7 @@ numpy==1.26.0
 
 pandas==2.2.3
 
-📊 Datasets
+## 📊 Datasets
 
 We use several benchmark multi-view datasets from:
 👉 https://github.com/YilinZhang107/Multi-view-Datasets
@@ -41,3 +41,10 @@ We use several benchmark multi-view datasets from:
 scikit-learn==1.6.0
 
 matplotlib==3.10.0
+
+## 💡 Acknowledgement
+
+Part of the dataset processing and evaluation pipeline follows
+Multi-view-Datasets
+.
+We sincerely thank the authors for sharing their code and datasets.
