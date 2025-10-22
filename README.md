@@ -18,7 +18,7 @@ If you find this work useful, please kindly cite our paper:
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
   year={2025},
   organization={ACM}
-}
+}```
 
 ## ⚙️ Requirements
 
