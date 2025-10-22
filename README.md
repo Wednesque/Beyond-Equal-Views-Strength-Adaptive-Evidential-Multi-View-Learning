@@ -1,12 +1,28 @@
-# Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning
+# 🌟 Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning
+---
 
-### This repository contains the code of our paper
+## 🧐 About
+---
 
-```
-Cai Xu, Ziqi Wen, Jie Zhao, Wanqing Zhao, Jinlong Yu, Haishun Chen, Ziyu Guan, Wei Zhao. "Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning" In ACMMM 2025.
-```
+An easy-to-run PyTorch implementation for our paper  
+**"Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning" (ACM MM 2025)**  
 
-### Requirements：
+If you have any questions, feel free to contact **zqwenn@stu.xidian.edu.cn** — happy to discuss and exchange ideas!  
+
+If you find this work useful, please kindly cite our paper:  
+
+```bibtex
+@inproceedings{xu2025beyond,
+  title={Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning},
+  author={Xu, Cai and Wen, Ziqi and Zhao, Jie and Zhao, Wanqing and Yu, Jinlong and Chen, Haishun and Guan, Ziyu and Zhao, Wei},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  year={2025},
+  organization={ACM}
+}
+
+## ⚙️ Requirements
+
+Python 3.8+
 
 torch==2.1.0
 
@@ -16,18 +32,11 @@ numpy==1.26.0
 
 pandas==2.2.3
 
+📊 Datasets
+
+We use several benchmark multi-view datasets from:
+👉 https://github.com/YilinZhang107/Multi-view-Datasets
+
 scikit-learn==1.6.0
 
 matplotlib==3.10.0
-
-You can install all dependencies with the following command:
-
-```
-pip install -r requirements.txt
-```
-
-### Datesets：
-
-```
-https://github.com/YilinZhang107/Multi-view-Datasets
-```
