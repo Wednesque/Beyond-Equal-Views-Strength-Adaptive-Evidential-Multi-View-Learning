@@ -16,8 +16,8 @@ If you find this work useful, please kindly cite our paper:
   title={Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning},
   author={Xu, Cai and Wen, Ziqi and Zhao, Jie and Zhao, Wanqing and Yu, Jinlong and Chen, Haishun and Guan, Ziyu and Zhao, Wei},
   booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
-  year={2025},
-  organization={ACM}
+  pages={1278--1287},
+  year={2025}
 }
 ```
 
