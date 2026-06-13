@@ -7,7 +7,7 @@
 An easy-to-run PyTorch implementation for our paper  
 **"Beyond Equal Views: Strength-Adaptive Evidential Multi-View Learning" (ACM MM 2025)**  
 
-If you have any questions, feel free to contact **zqwenn@stu.xidian.edu.cn** — happy to discuss and exchange ideas!  
+If you have any questions, feel free to contact **wednesque@gmail.com** — happy to discuss and exchange ideas!  
 
 If you find this work useful, please kindly cite our paper:  
 
